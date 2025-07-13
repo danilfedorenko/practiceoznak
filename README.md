@@ -12,10 +12,10 @@
    python --version
 
 2. Скачайте проект или клонируйте репозиторий:
-    git clone https://github.com/your-name/practiceoznak.git
-    cd practiceoznak
+    - git clone https://github.com/your-name/practiceoznak.git
+    - cd practiceoznak
    
-3. Запустите приложение:
+4. Запустите приложение:
     python main.py
 
 ## Реализованные функции
