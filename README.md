@@ -12,8 +12,8 @@
    python --version
 
 2. Скачайте проект или клонируйте репозиторий:
-    git clone https://github.com/ваш-логин/todolist-cli.git
-    cd todolist-cli
+    git clone https://github.com/your-name/practiceoznak.git
+    cd practiceoznak
    
 3. Запустите приложение:
     python main.py
