@@ -28,3 +28,5 @@
 - [x] Сохранение задач в файл `tasks.json` в формате JSON
 - [x] Загрузка задач из файла при запуске
 - [x] Сортировка задач по статусу (выполненные идут после невыполненных)
+
+<img width="1235" height="205" alt="image" src="https://github.com/user-attachments/assets/fc0786c2-14ef-4156-a4ea-4563af4f94ee" />
